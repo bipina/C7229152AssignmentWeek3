@@ -1,4 +1,4 @@
-package me.mahakagg.scrollingtext;
+package me.Bipina.scrollingtext;
 
 import org.junit.Test;
 

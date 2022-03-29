@@ -1,7 +1,9 @@
-package me.mahakagg.scrollingtext;
+package me.Bipina.scrollingtext;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import me.mahakagg.scrollingtext.R;
 
 public class MainActivity extends AppCompatActivity {
 
