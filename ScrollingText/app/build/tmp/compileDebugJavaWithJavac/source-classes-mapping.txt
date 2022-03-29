@@ -1,0 +1,4 @@
+me/mahakagg/scrollingtext/MainActivity.java
+ me.mahakagg.scrollingtext.MainActivity
+me/mahakagg/scrollingtext/BuildConfig.java
+ me.mahakagg.scrollingtext.BuildConfig
